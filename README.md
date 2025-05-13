@@ -1,7 +1,7 @@
 # exp3
 change github -> .github
 
-
+or manually create workflow add the code and keep files in the same directory
 # 14
 
 change github -> .github
