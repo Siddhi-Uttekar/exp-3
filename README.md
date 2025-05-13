@@ -1,3 +1,9 @@
+####updating git
+git credential-manager-core erase
+git config user.name "new-username"
+git config user.email "new-email@example.com"
+
+
 # exp3
 change github -> .github
 
